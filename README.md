@@ -1,6 +1,7 @@
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Slovuan-Swan_mind-hack)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
 
 [![asciicast](https://asciinema.org/a/1176182.svg)](https://asciinema.org/a/1176182)
 
