@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 
-[![Actions Status](https://github.com/Slovuan-Swan/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/frontend-project-44/actions)
+[![Actions Status](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
 
 [![asciicast](https://asciinema.org/a/1176182.svg)](https://asciinema.org/a/1176182)
 
