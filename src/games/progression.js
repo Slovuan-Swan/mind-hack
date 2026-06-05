@@ -1,9 +1,7 @@
 import runEngine from "../index.js";
+import getRandomNum from "../utils.js";
 
 const description = "What number is missing in the progression?";
-
-const getRandomNum = (min = 1, max = 50) =>
-  Math.floor(Math.random() * (max - min + 1)) + min;
 
 const generateArithmeticProgression = (start, step, length) => {
   const progression = [];
@@ -14,7 +12,7 @@ const generateArithmeticProgression = (start, step, length) => {
 };
 
 const getRoundData = () => {
-  const start = getRandomNum(1, 20);
+  const start = getRandomNum(1, 50);
   const step = getRandomNum(2, 10);
   const length = 10; // Фиксированная длина прогрессии
   const progression = generateArithmeticProgression(start, step, length);

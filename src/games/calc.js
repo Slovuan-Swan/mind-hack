@@ -1,10 +1,8 @@
 import runEngine from "../index.js";
+import getRandomNum from "../utils.js";
 
 const description = "What is the result of the expression?";
 const operators = ["+", "-", "*"];
-
-const getRandomNum = (min = 1, max = 20) =>
-  Math.floor(Math.random() * (max - min + 1)) + min;
 
 const calculate = (num1, num2, operator) => {
   switch (operator) {
@@ -20,8 +18,8 @@ const calculate = (num1, num2, operator) => {
 };
 
 const getRoundData = () => {
-  const num1 = getRandomNum();
-  const num2 = getRandomNum();
+  const num1 = getRandomNum(1, 20);
+  const num2 = getRandomNum(1, 20);
   const operator = operators[Math.floor(Math.random() * operators.length)];
 
   const question = `${num1} ${operator} ${num2}`;
