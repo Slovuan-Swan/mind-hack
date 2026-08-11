@@ -1,11 +1,10 @@
 ### Tests and linter status:
 
-[![Actions Status](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
+[![CI](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
 ![Node.js](https://img.shields.io/badge/Node.js-16+-brightgreen?logo=node.js&logoColor=white)
 [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_mind-hack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_mind-hack&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Демонстрация игрового процесса:
 
