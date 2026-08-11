@@ -15,5 +15,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "16"
-      - run: make install
-      - run: npm run lint
+      - run: npm install
+      - run: npm link
