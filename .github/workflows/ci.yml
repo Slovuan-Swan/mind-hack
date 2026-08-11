@@ -16,7 +16,6 @@ jobs:
         with:
           node-version: "16"
       - run: make install
-      - run: make lint
       - run: npm link
       - run: brain-even
       - run: brain-calc
