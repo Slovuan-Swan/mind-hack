@@ -1,7 +1,7 @@
 {
-  "name": "@hexlet/code",
+  "name": "@mind-hack",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/Slovuan-Swan/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/frontend-project-44/actions)",
+  "description": "[![Actions Status](https://github.com/Slovuan-Swan/frontend-project-44/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/frontend-project-44/actions)",
   "homepage": "https://github.com/Slovuan-Swan/frontend-project-44#readme",
   "bugs": {
     "url": "https://github.com/Slovuan-Swan/frontend-project-44/issues"

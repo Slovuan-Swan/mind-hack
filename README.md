@@ -1,7 +1,11 @@
-### Hexlet tests and linter status:
+### Tests and linter status:
 
-[![Actions Status](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_mind-hack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
+[![Actions Status](https://github.com/Slovuan-Swan/mind-hack/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/mind-hack/actions)
+![Node.js](https://img.shields.io/badge/Node.js-16+-brightgreen?logo=node.js&logoColor=white)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_mind-hack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_mind-hack&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_mind-hack)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Демонстрация игрового процесса:
 
@@ -29,7 +33,7 @@
 
 ## Описание проекта
 
-**«Игры разума» (Mind Games)** — это набор из пяти консольных игр, построенных по принципу популярных приложений для прокачки мозга. Каждый матч состоит из трех раундов. Игроку необходимо правильно ответить на все вопросы, чтобы победить. В случае одной ошибки игра завершается.
+**«Игры разума» (Mind Games)** — это набор из пяти консольных игр, построенных по принципу популярных приложений для прокачки мозга. Каждый матч состоит из трех раундов. Игроку необходимо правильно ответить на все вопросы, чтобы победить. В случае одной ошибки игра завершается. Настоящий взлом разума!
 
 ### Список игр:
 
@@ -57,3 +61,5 @@ npm link
 - `brain-gcd`
 - `brain-progression`
 - `brain-prime`
+
+Просто введите одну из команд и узнайте насколько вы сильны в математике!
